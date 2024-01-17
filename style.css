@@ -35,7 +35,7 @@ background-color: rgba(0, 0, 0, 0.567);
 #se {
     position: absolute;
     width: 591px;
-    height: 31px;
+    height: 37px;
     color:black;
     margin-top: 60px;
     border: 1px solid rgb(0, 0, 0) ;
@@ -43,12 +43,11 @@ background-color: rgba(0, 0, 0, 0.567);
 }
 #ser{
     position: absolute;
-    height: 35px;
+    height: 33px;
     border-radius: 6px;
-    margin-top: 60px;
+    margin-top: 63px;
     width: 41.5px;
-    margin-left:553px;
-    background-color:rgba(0, 0, 0, 0.857);
+    margin-left:548px;
 }
 #logo{
     display: inline-flex;
